@@ -1,0 +1,13 @@
+
+
+.cart {
+    margin: 8px;
+    padding: 12px 16px;
+    border-radius: 4px;
+    background-color: gray;
+    color: white;
+  }
+  
+  .cart.CartProm {
+    background-color: pink;
+  }
